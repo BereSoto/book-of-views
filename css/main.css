@@ -1,0 +1,19 @@
+*{
+margin:0;
+padding:0;
+}
+
+h1{
+  text-align: center;
+}
+h4{
+  color: red;
+}
+
+#box{
+  display: flex;
+  justify-content: center;
+}
+textarea{
+  text-align: center;
+}
